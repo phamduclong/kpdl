@@ -1,0 +1,2 @@
+# nhân viết label kém,rất kém  dùng random model_forest
+# nhận biêt label tot dùng svm
